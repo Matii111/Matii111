@@ -1,6 +1,6 @@
 
 <img src= "https://media4.giphy.com/media/PcecMRmD92GHJib0eR/giphy.gif?cid=6c09b95227119a095f23e9f7d3716cd8299ebd12ab158e58&rid=giphy.gif&ct=g" width ="120" height= "120" align = "left"/>
-<h1 >~Mati </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="16" height="16"/></a></h1> 
+<h1 >~Mati Jack of all trades ... </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="16" height="16"/></a></h1> 
 <p align="left">                 Jack of all trades ...</p>
 
 
