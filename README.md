@@ -6,7 +6,7 @@
 <p>
   ‎ ‎ ‎ ‎ ‎ • Jack of all trades ...
   <br>
-  ‎ ‎ ‎ ‎ ‎ • Currently 3 yrs. in software engineering.
+  ‎ ‎ ‎ ‎ ‎ • Currently 4 yrs. in software engineering.
 </p>
 
 
