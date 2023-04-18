@@ -1,15 +1,19 @@
 
 <img src= "https://media4.giphy.com/media/PcecMRmD92GHJib0eR/giphy.gif?cid=6c09b95227119a095f23e9f7d3716cd8299ebd12ab158e58&rid=giphy.gif&ct=g" width ="120" height= "120" align = "left"/>
 <h1 > ‎  ‎ ~Mati 
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" width ="16" height= "16"/>
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" width ="16" height= "16"/>  
 </h1> 
 <p>
-  ‎ ‎ ‎ ‎ ‎ • Jack of all trades ...
+  ‎ ‎ ‎ ‎ ‎ 
+  • Jack of all trades ...
   <br>
-  ‎ ‎ ‎ ‎ ‎ • Currently 4 yrs. in software engineering.
+  ‎ ‎ ‎ ‎ ‎ 
+  • Currently 4 yrs. in software engineering.
+  <br>
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  • <a href="https://matii111.github.io/" >About me</a>
+  <br>
 </p>
-
-
 
 <h3 align="right">Currently learning:</h3>
 <p align="right">
